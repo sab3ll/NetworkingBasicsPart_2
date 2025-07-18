@@ -1,0 +1,4 @@
+Протокол третьего уровня - UDP (User Datagram Protocol).
+Source порт может быть любым, в данном случае - 123.
+Destination порт - 123.
+Передаваемое в первом NTP-пакете значение Transmit timestamp - Jan 15, 2025 12:00:45.988023983 UTC.
